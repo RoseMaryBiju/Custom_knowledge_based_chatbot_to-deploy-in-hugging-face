@@ -1,0 +1,9 @@
+streamlit>=1.22.0
+langchain>=0.0.184
+langchain-community>=0.0.10
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+unstructured[pdf]>=0.7.1
+huggingface_hub>=0.14.1
+python-magic>=0.4.27
+transformers>=4.29.2
